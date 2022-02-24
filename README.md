@@ -1,16 +1,17 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=226750&height=200&section=header&text=rafael-alves-nascimento&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!--
-**rafael-alves-nascimento/rafael-alves-nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+rafael-alves-nascimento;Tenho+18+anos+!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<!-- old;+SP;I+study+systems+development+at+Senai;Be+Welcome
+ -->
+<div align="center">
+  <a href="https://github.com/RodrigoAnjos2004">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-alves-nascimento&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-alves-nascimento&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Contribution](https://activity-graph.herokuapp.com/graph?username=rafael-alves-nascimento&theme=gotham&hide_border=true&area=true)
+
+
+
+
