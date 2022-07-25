@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-alves-nascimento&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=rafael-alves-nascimento&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=rafael-alves-nascimento&theme=monokai&hide_border=true&area=true)
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
