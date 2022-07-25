@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/rafael-alves-nascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-alves-nascimento&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-alves-nascimento&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-alves-nascimento&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=rafael-alves-nascimento&theme=gotham&hide_border=true&area=true)
