@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF2800&height=200&section=header&text=Rafael+Alves+Nascimento&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Rafael+Alves+Nascimento&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rafael+Alves+do+Nascimento;Tenho+18+anos+!+:%29)](https://git.io/typing-svg)
 <!-- 18+nos;+SP;Desenvolvimento+de+sistemas+no+Senai;Be+Welcome
